@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings on the King and Queens commissions of the peace, and oyer and terminer, and gaol delivery of Newgate held for the city of London, and county of Middlesex, at Justice-hall in the Old-Baily : on Wednesday, Thursday, and Saturday being the 15th, 16th, and 18th days of October 1690, and in the second year of Their Majesties reign.</title>
+            <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55963</idno>
+            <idno type="STC">Wing P3603</idno>
+            <idno type="STC">ESTC P94</idno>
+            <idno type="EEBO-CITATION">12427079</idno>
+            <idno type="OCLC">ocm 12427079</idno>
+            <idno type="VID">61909</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61909)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 947:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings on the King and Queens commissions of the peace, and oyer and terminer, and gaol delivery of Newgate held for the city of London, and county of Middlesex, at Justice-hall in the Old-Baily : on Wednesday, Thursday, and Saturday being the 15th, 16th, and 18th days of October 1690, and in the second year of Their Majesties reign.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtiss ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Court records --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proceedings">
+            <pb n="1" facs="tcp:61909:1" rendition="simple:additions"/>
+            <head>THE PROCEEDINGS ON THE <hi>King and Queens Commiſſions</hi> OF THE <hi>Peace,</hi> and <hi>Oyer</hi> and <hi>Terminer,</hi> and <hi>Gaol Delivery</hi> of <hi>Newgate,</hi> held for the CITY of <hi>London,</hi> and COUNTY of <hi>Middleſex,</hi> at <hi>Juſtice-Hall</hi> in the <hi>OLD-BAILY.</hi>
+            </head>
+            <head type="sub">
+               <hi>On</hi> Wedneſday, Thurſday, <hi>and</hi> Saturday <hi>being the 15th, 16th, and 18th Days of</hi> October, <hi>1690.</hi> And in the Second Year of Their MAJESTIES Reign.</head>
+            <p>THE Seſſions of <hi>Peace, Oyer</hi> and <hi>Terminer,</hi> and Gaol Delivery of <hi>Newgate,</hi> held at <hi>Juſtice-Hall</hi> in the <hi>Old-Baily,</hi> on <hi>Wedneſday, Thurſday</hi> and <hi>Saturday</hi> being the 15th, 16th, and 18th Days of <hi>October,</hi> 1690. Before the Right Honourable Sir <hi>Thomas Pilkington</hi> Kt. Lord Mayor of the City of <hi>London,</hi> and Mr. Re<g ref="char:EOLhyphen"/>corder, with ſeveral others of Their Majeſties Ju<g ref="char:EOLhyphen"/>ſtices for the City of <hi>London,</hi> and the County of <hi>Middleſex.</hi>
+            </p>
+            <list>
+               <head>The Jurors were as follow:</head>
+               <item>London Jury,</item>
+               <item>
+                  <hi>Iſaac Dighton</hi>
+               </item>
+               <item>
+                  <hi>Arthur Eaveley</hi>
+               </item>
+               <item>
+                  <hi>Robert Lyon</hi>
+               </item>
+               <item>
+                  <hi>George Dolben</hi>
+               </item>
+               <item>
+                  <hi>James Stancliffe</hi>
+               </item>
+               <item>
+                  <hi>Richard Blagrove</hi>
+               </item>
+               <item>
+                  <hi>Benj. Johnſon</hi>
+               </item>
+               <item>
+                  <hi>Jeremiah Ives</hi>
+               </item>
+               <item>
+                  <hi>Charles Ruſſell</hi>
+               </item>
+               <item>
+                  <hi>Samuel Chambers</hi>
+               </item>
+               <item>
+                  <hi>James Smith</hi>
+               </item>
+               <item>
+                  <hi>Robert Chapman</hi>
+               </item>
+               <item>Middleſex Jury,</item>
+               <item>
+                  <hi>Richard Cooper</hi>
+               </item>
+               <item>
+                  <hi>John Mirdale</hi>
+               </item>
+               <item>
+                  <hi>Benj. Boltbey</hi>
+               </item>
+               <item>
+                  <hi>John Buſh</hi>
+               </item>
+               <item>
+                  <hi>William Gunſtone</hi>
+               </item>
+               <item>
+                  <hi>Edward Weekes</hi>
+               </item>
+               <item>
+                  <hi>Thomas Remidge</hi>
+               </item>
+               <item>
+                  <hi>Abraham Hedge about</hi>
+               </item>
+               <item>
+                  <hi>John Cave</hi>
+               </item>
+               <item>
+                  <hi>John Preſton</hi>
+               </item>
+               <item>
+                  <hi>Richard Brumfeild</hi>
+               </item>
+               <item>
+                  <hi>Edmund Salter</hi>
+               </item>
+            </list>
+            <p>
+               <hi>The Proceedings were theſe:</hi>
+            </p>
+            <p>
+               <hi>Philip O Neale</hi> was tryed for breaking the Houſe of one <hi>John Fiſher</hi> in <hi>Bartholomew Lane,</hi> and took away two Pieces of coyned Gold, value each 20 <hi>s.</hi> two other 10 <hi>s</hi> Pieces, 22 Guineas, and ſeveral other ſmall Pieces of Gold, beſides 60 <hi>l</hi> in Mony, <hi>&amp;c.</hi> The Evidence ſwore, That he and three others came to the Proſecutors Houſe to drink, and broke open the Chamber-Door, and took away the Gold. The Priſoner denyed that he knew any thing of it, ſaying that he was not above Stairs, neither ſtayed in the Houſe: The Evidence could not ſay that he was in the Chamber; ſo he was favoured by the Jury, and thereupon Acquitted.</p>
+            <p>
+               <hi>M</hi>— <hi>H</hi>— was tryed for Murthering her Male Baſtard Child, on the 11th. of <hi>Septemb.</hi> laſt: It appeared that ſhe was a a Servant, and that to prevent Diſcovery ſhe put it into the Houſe of Office; which was fully ſworn againſt her: She had little to ſay for her ſelf, being a very Ignorant Silly Girle: and the Evidence ſaid further, That ſhe had confeſt the Matter be<g ref="char:EOLhyphen"/>fore, ſo upon the whole ſhe was found Guilty.</p>
+            <p>
+               <hi>Margaret Kelly</hi> was tryed for breaking the Houſe of <hi>Thomas Eave,</hi> in <hi>Shoe Lane,</hi> on the 20th of <hi>September</hi> laſt, ſtealing from him one Silver Bowle, value 4 <hi>l.</hi> a Silver Cup, value 3 <hi>l</hi> a Coife, and ſome other ſmall Lynen. The Evidence was Mrs. <hi>Eave</hi> who ſaid, That ſhe could not charge her with the Plate, but ſhe found ſome Lynen about her; but ſhe could not affirm that the Window was ſhut. The Priſoner denyed it, and the Evidence was ſomewhat circumſtantial, ſo upon the whole ſhe was found Guilty only to the Value of 10 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Thomas Caſtle</hi> alias <hi>Caſſes</hi> was Indicted for High Treaſon, in Counterfeiting and making 50 Pieces of King <hi>James</hi> I. Shillings, in <hi>March</hi> laſt: He was taken the 3d of <hi>October,</hi> and 13 of the falſe Shillings were found in his Houſe, in <hi>Marygold-Alley</hi> in the <hi>Strand,</hi> in the bottom of a Salt-Box, and ſome Crucibles, for melting, and ſome Clippings, which were found in a Box-Iron, hanging in the Chimney, and Files and other things, ſit for the Trade; all which was fully proved upon him by ſeveral Wit<g ref="char:EOLhyphen"/>neſſes, The Priſoner denyed it all, and <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed ſeveral Eva<g ref="char:EOLhyphen"/>ſions, where by to extenuate the Crime: but upon the whole matter he was found Guilty of High Treaſon.</p>
+            <p>
+               <hi>Edward Stephens</hi> was likewiſe indicted upon the ſame Account, <hi>viz.</hi> for Making and Counterfeiting of 20 Pieces of K. <hi>James</hi> I. 's Shillings, and 20 pieces of King <hi>Charles</hi> I's halt Crowns, which the ſame Evidences ſwore, That he ſtruck the Stamp, with a great Hammer, to make an Impreſſion, and that he ſaw him do it 3 or 4 times. The Priſoner denyed the Matter of Fact: And no Evidence was produced that ſaw him coyne only ſtruck the Stemp, which another Perſon might eaſily have done, ſo he was Acquitted.</p>
+            <p>
+               <hi>Peter Vallard</hi> a Frenchman, was tryed for High Treaſon alſo, in Clipping and Deminiſhing the Currant Coyne of this King<g ref="char:EOLhyphen"/>dom, on the 28th of <hi>Auguſt.</hi> The Evidence ſwore, That he was ketched clipping of Mony in a Ditch near S. <hi>Mary-le-Bone</hi> and that he ſaw him clip a Shilling almoſt round. The Priſo<g ref="char:EOLhyphen"/>ner denyed it, but there was a Box of Clipings and a Pair of Shears produced in Court, as a further. Teſtimony againſt him, ſo in the concluſion he was brought in Guilty of the Indict<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Elizabeth Cox</hi> was tryed for uttering 20 pieces of falſe Mony, on the 5th of <hi>Auguſt,</hi> which the Witneſſes ſaid was given to her to put off by one <hi>Wright</hi> in <hi>Bloomsbury;</hi> and that <hi>Wright</hi> allowed the Priſoner 29 <hi>s</hi> of clipt Mony for 20 <hi>s</hi> of broad Mony, and a Penny in a Shilling for putting it off; but they could not ſwear that ſhe uttered Mony faſlly: ſo ſhe was immediately Acquitted.</p>
+            <p>
+               <hi>John Stephens</hi> was indicted for breaking the Houſe of one <hi>John Blenthard,</hi> about 9 a clock at Night, taking away on the 7th of
+<pb n="2" facs="tcp:61909:2"/>
+               <hi>September</hi> laſt, 2 flaxen Sheets, value 20 <hi>s.</hi> a Feather-bed, value 40 <hi>s,</hi> a Silk Petticoat, and ſeveral other Goods of great value. It was evidenced, That he got into the Houſe, and was taken before he had carried off any thing; but no Evidence could ſwear the Burglary againſt him, and he denyed it, ſo in the end he was found Guilty of Felony only.</p>
+            <p>
+               <hi>Elizabeth Fire-bank,</hi> of S. <hi>Andrews Holborne,</hi> was indicted for ſtealing, from Mr. <hi>Robert Needham,</hi> 4 Gold Rings value 40 s. 2 ſtone Rings, 1 Gold Bodkin, 8 Diaper Napkins, 2 Watches va<g ref="char:EOLhyphen"/>lue 50 s. and ſome other things. The Evidence ſaid, That ſhe lodged in the Proſecutors Houſe, and had a Perſon came to her, which ſhe ſaid was her Husband: The Goods were loſt, ſome of which ſhe owned to have taken before Sir <hi>William Turner,</hi> but ſhe denyed all at the Tryal: The Evidence being ſome what promiſcuous, ſhe was Acquitted.</p>
+            <p>
+               <hi>Conſtance Wayne wright</hi> was tryed for ſtealing a Silver Tea-Pot value 6 l. from <hi>Paul Hayley,</hi> one Silk Petticoat and ſome other Goods, and 40 s. in Mony, from <hi>Thomas Elmor.</hi> It appeared, That a Gown was found upon her Back, at <hi>Graves-end,</hi> and ſome other of the Goods, which was a plain Evidence; and ſhe could not much deny it, ſo ſhe was found Guilty of Felony.</p>
+            <p>
+               <hi>Elizabeth Vaughan</hi> was indicted for ſtealing ſeveral finall Goods, Lynen and Wollen, <hi>&amp;c,</hi> from one <hi>Edw. Powel,</hi> on the 16th of <hi>September</hi> laſt. The Priſoner hired a Chamber in the Proſecu<g ref="char:EOLhyphen"/>tor's Houſe, and ſo took away the Things, which was fully ſworn againſt her, ſo ſhe was found Guilty to the value of 10 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>William Mandrill</hi> the younger, <hi>Edward Everal, Jonathan Oakley, John Browning, John Larkin, Thomas White</hi> and <hi>Richard Cloves,</hi> were all ſeven tryed for the Murther of one <hi>Samuel Jackson,</hi> giv<g ref="char:EOLhyphen"/>ing him a Mortal Bruiſe upon his Forehead, on the 12th of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> laſt, of which he dyed on the 18th Day of the ſame Month. The Evidence was very numerous on the King's ſide, who de<g ref="char:EOLhyphen"/>poſed in the General, That <hi>Jackson</hi> being preſs'd and carried into a Boat, a Fewd aroſe about preſſing ſome others, in which Scuffle he received a Blow on his Head, the Occaſion, us ap<g ref="char:EOLhyphen"/>peared upon Evidence, was thus. Whilſt the four latter Priſo<g ref="char:EOLhyphen"/>ners went aſhoar at Mr. <hi>Mandril</hi>'s Dye houſe, near the 3 <hi>Cranes,</hi> to preſs his Servants; the Deceaſed ſtanding upright in the Boat with one Foot upon the ſide of it, in ſuch a Poſture, as if he were about to make an eſcape: Which <hi>Browning</hi> ſeeing, he gave him a Stroak upon the Head with his Cutlace upon which the Deceaſed fell down in the Boat, and immediately bled vio<g ref="char:EOLhyphen"/>lently at the Ears, and being conveyed home, he had a Surgeon to ſearch his Head, who ſound a Fracture in his Skull, which was the occaſion of his Death. <hi>William Mandrill</hi> called ſome Evi<g ref="char:EOLhyphen"/>dence, who declared, That the Priſoner <hi>Browning,</hi> with others, came to Mr. <hi>Mandrills,</hi> and preſs'd the Apprentices, and cut one of them over the Head and Arm, and carried him away in a very violent manner. There was no Evidence affected the others, only <hi>Browning</hi> was found Guilty of killing the ſaid <hi>Jackson,</hi> and the Matter was found Special, until their Majeſties Judges ſhall determine it, after their further Conſideration of the Matter, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Daniel Johnſon</hi> alias <hi>Juxon,</hi> was tryed for breaking the Houſe of <hi>Robert Ruſſell</hi> of <hi>Stepney,</hi> with an Intention to ſteal his Goods, on the 24th Day of <hi>Auguſt</hi> laſt. The Witneſs could not ſwear that he broke the Houſe, for that he was taken in the High-way before the Door, having no Goods found about him: So a new Indictment was ordered againſt him for a Treſpaſs.</p>
+            <p>
+               <hi>John Clarke</hi> was tryed for ſtealing a Silver Tailer, value 18 <hi>d.</hi> and 8 l. in Money numbred, from <hi>John Andgrave</hi> of S. <hi>James's Weſtminſter,</hi> on the 24th of <hi>September</hi> faſt. This Priſoner was in<g ref="char:EOLhyphen"/>dicted, on the firſt day of the Seſſions. by the name of <hi>Philip O Neale,</hi> as aforeſaid. He and another came to the Proſecutor's Houſe, and after they had eat ſome Pork, the Priſoner took the Mony, and run away with it; but being purſued, the Mony was found in 2 Bags about him. The Priſoner raid, That the Mony was given him by another Perſon, but he could not prove any thing: He was found Guilty of Felony.</p>
+            <p>
+               <hi>William VVright,</hi> an old Man, was arraigned for marrying 2 Wives, the firſt named <hi>Elinor Fiſher,</hi> the other <hi>Edith Price, Fiſher</hi> he married in the 32d Year of King <hi>Charles,</hi> and <hi>Price</hi> he mar<g ref="char:EOLhyphen"/>ried in the 2d Year of King <hi>James</hi> II. Upon Enquiry into the matter, he was Acquitted by virtue of their Majeſties moſt Gracious Pardon.</p>
+            <p>
+               <hi>Anne Griſcall</hi> was indicted for ſtealing a Sheet, a Cupboard-Cloath and an old Mantle, value about 10 s. from <hi>Ralph Dean,</hi> on the 6th of <hi>Auguſt</hi> It was fully proved that ſhe confeſt it, and having nothing to ſay was found Guilty, value 10 d.</p>
+            <p>
+               <hi>Bryant Cane,</hi> one of the Gang that robbed Mr. <hi>Baker</hi> of S. <hi>Mary-le-Beae,</hi> on the 28th of <hi>Feb.</hi> laſt, was tryed for the ſame: And the Evidence for the King ſaid. That he was one that help'd to commit the Robbery, taking away 2 Silver Tankards value 12 l. a Silver Salver value 12 l. a Cup 9 l. with abundance of other Plate and Goods, all to the value of between 3 and 400 l. All which was fully proved againſt him. The Priſoner denyed it, and called for one <hi>Mich. La<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bert, John Rogers</hi> and Mr. <hi>Ambrey,</hi> to prove that he was in another Place when the Robbery was com<g ref="char:EOLhyphen"/>mitted, but no one appeared: In the end he was found Guilty of <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and Burglary.</p>
+            <p>
+               <hi>David Floyd</hi> was indicted for killing one <hi>Rotherick Williams</hi> on the 2d of <hi>September</hi> laſt, giving him a Mortal Wound upon the Left Eye with a Sword value 5 s. of the length of one Inch, depth 2 Inches, of which he dyed the 4th Inſtant: The Priſo<g ref="char:EOLhyphen"/>ner and the Deceaſed were together in <hi>Shandois ſtreet,</hi> in an Ale<g ref="char:EOLhyphen"/>houſe, and drew their Swords, and the Priſoner was heard to confeſs that he gave him the Wound, which he ſaid he did at one Paſs. The Priſoner upon his Tryal ſaid, That the deceaſed quarrelled with him in the Houſe, and broke open a Door upon him, calling him Coward, and what he did was in his own de<g ref="char:EOLhyphen"/>fence: But that did not prevail with the Jury, but he was found Guilty of Manſlaughter.</p>
+            <p>
+               <hi>Lucey Jeffiries</hi> was tryed for robbing Mrs. <hi>Mary Megs</hi> of <hi>Thiſtle<g ref="char:EOLhyphen"/>worth</hi> of 8 Cambrick Handkerchiefs value 8 s. two Silver Spoons 22 s. 2 Forks 13 s. 2 yards of Silver Fringe 20 s. with a Geld<g ref="char:EOLhyphen"/>ing coloured bright Bay value 8 l. beſides ſeveral other Goods of great value, <hi>&amp;c.</hi> The Evidence was Mrs. <hi>Meggs,</hi> who ſaid, That the Priſoner was her Servant, who ſhe entruſted to look to her Houſe, in her Abſence; but ſhe proved falſe and robb'd her: and 2 Spoons and 2 Forks, and other things Mrs. <hi>Meggs</hi> found in her Bed, at another Houſe adjoyning, being the Waſh-houſe, where the Priſoner lay: The Horſe was brought by a Man near to Mr. <hi>Fluch's</hi> Brew houſe, and given to a Boy to lead, he promiſing to give the Boy a Penny, but he run away, and came no more to fetch the Horſe. The Evidence was not very poſitive as to her, for that ſhe diſcovered it to her Miſtreſs when ſhe came from <hi>London, viz.</hi> That the Houſe was robbed by ſome, who had reared a Ladder up to a Chamber Window, for the Window was left open. Upon the whole, after a diſtinct Hearing ſhe was Diſcharged.</p>
+            <p>
+               <hi>Anne Braſeby</hi> and <hi>William Goodſpeed,</hi> a Boy of about 15 years, were both tryed for robbing the Houſe of <hi>John lace</hi> Gent. at <hi>Weſt Ham</hi> in <hi>Eſſex,</hi> on the 6th of <hi>September</hi> laſt, of a Silver Cup value 5 l, 4 Spoons value 40 s. The Cup was found upon them, but the Spoons (<hi>Braſeby</hi> confeſt before the Juſtice) were melt<g ref="char:EOLhyphen"/>ed down. The Priſoners were Perſons that old belong to the Poppet Shews in <hi>Bartholomew</hi> Fair: The Woman was taken in <hi>More fields,</hi> hid under a Bench, and the Boy was taken in <hi>Bar<g ref="char:EOLhyphen"/>tholomew</hi> Fair. They had nothing material to offer, having been old Offenders; yet the Evidence did not affect the Boy ſo much as the Woman, ſo he was acquitted, but ſhe was found Guilty of Felony.</p>
+            <p>
+               <hi>Luke Braſeby</hi> was tryed for a Miſdemeanour, for receiving into his Hand half an Ounce of Clippings, and for Concealing of it, to the great Encouragement of Clippers, <hi>&amp;c.</hi> The Evi<g ref="char:EOLhyphen"/>dence ſwore, That the Clippings were found in the Priſoner's Breeches, in a little Box, and there was a ſmall File found in the Priſoner's Houſe beſides. The Priſoner denyed it, but he was found Guilty.</p>
+            <p>
+               <hi>Richard Haksworth</hi> was tryed for ſtealing 11 Deal Boards value 9 s. 2 d. 3 Frames 3 s. and 2 wooden Benches 12 d. on the firſt of <hi>July</hi> laſt, from <hi>John Hare</hi> of <hi>Stepney;</hi> but it appeared that he was employed by the Proſecutor to work for him, and no Felo<g ref="char:EOLhyphen"/>ny could be proved, to he was acquitted,</p>
+            <p>
+               <hi>Henry Chawk</hi> of <hi>Hillingdon</hi> was indicted for ſtealing a Trunk, containing ſeveral Cloathes in it, from Sir <hi>Edward Norris</hi> Knight, on the firſt of <hi>October</hi> laſt. He was taken at <hi>Staynes,</hi> and own<g ref="char:EOLhyphen"/>ed the Fact; ſo he did at the Tryal, begging the Mercy of the Bench. He was found Guilty of Felony.</p>
+            <p>
+               <hi>Andrew Burnet</hi> and <hi>Lyon Fountaine,</hi> of S. <hi>Martins in the Fields,</hi> were both tryed for robbing Mr. <hi>Roger Shakesbey,</hi> on the 6th in<g ref="char:EOLhyphen"/>ſtant, of a black Hat value 14 s. a Peruque 10 s. The Evi<g ref="char:EOLhyphen"/>dence ſwore, That the Priſoners met Mr. <hi>Shakesbey</hi> and ſome others as they were taking Water at <hi>Salesbury ſtairs,</hi> and that <hi>Lyon Foun<g ref="char:EOLhyphen"/>taine</hi> ſet upon <hi>Shakesbey</hi> and beat him, and his Hat and Peruque fell off, but he could not ſay they took them; ſo they were Ac<g ref="char:EOLhyphen"/>quitted. But another Indictment was ordered to be drawn a<g ref="char:EOLhyphen"/>gainſt them forthwith.</p>
+            <p>
+               <hi>John Lowbridge</hi> alias <hi>Spencer</hi> was indicted for ſtealing a Mare, coloured grey, price 5 l. on the 9th of <hi>Oct<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ber</hi> inſtant, from <hi>Thomas Hammond:</hi> The Mare was owned to be <hi>Hammond</hi>'s, and the Priſoner ſold her to one <hi>Cooper</hi> for 44 s. and the Mony was paid at the Crown Inn in <hi>Watwick-lane.</hi> He was Acquitted of the <hi>Middleſex</hi> Indictment, and a new Indictment was ordered againſt him on <hi>London</hi> ſide, upon which he was tryed and found Guilty.</p>
+            <p>
+               <hi>James Batrone</hi> was arraigned for ſtealing 3 Silver Spoons, on the 25th of <hi>September</hi> laſt, value 27 s. from <hi>Stephen Butcher;</hi> which he immediately confeſt, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Jane Eaton</hi> and <hi>Katharine Jones</hi> were indicted for breaking the Houſe of <hi>John Preſc<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> on the 10th of <hi>September,</hi> taking away <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 yards of Flaxon Cloth value 26 s. and another Iriſh Piece of Cloth, value about 13 s. There came 3 Women to the Shop, and whilſt the Maid of the Houſe was above Stairs, <hi>Eaton</hi> was ſoon to carry away one Piece of Cloth, which was found upon her, and the other piece was found upon <hi>Jones,</hi> they were both found Guilty.</p>
+            <p>
+               <hi>Anne Henderſon</hi> was tryed for ſtealing a Silver Tankard from Mr. <hi>Jeremy Dod,</hi> value 4 l. 19 s. Mr. <hi>Dod</hi> ſaid, That the Pri<g ref="char:EOLhyphen"/>ſoner
+<pb n="3" facs="tcp:61909:2"/>and another Woman came to his Houſe and called for Drink, and after the other Woman went away with the Tankard, and the Priſoner was ſtopt, but the Tankard was never produced again. She made a frivolous Defence for herſelf, and produced ſome Evidence that gave a favourable Account of her former Behaviour: But ſhe endeavouring to get away without paying the Reckoning, <hi>&amp;c.</hi> She was found Guilty.</p>
+            <p>
+               <hi>Thomas Rowland</hi> was tryed for ſtealing from <hi>William Bird,</hi> in the King's High-way, on the 29th of <hi>July</hi> laſt, 1000 Yards of Bone-Lace value 1200 l. The Evidence was, That the Priſoner did confeſs the ſtealing of the Lace to one <hi>Buckle</hi> and others, but Bird was not produced againſt him. The Priſoner urged, That it was Malice in the Proſecutor, and denyed the Fact, but the Matter being fully proved, he was found Guilty of the Robbery.</p>
+            <p>He was a ſecond Time indicted for robbing <hi>John Chriſtmas,</hi> a Carryer, on the High way of 84 l. 9 s. The Evidence ſwore, That the Priſoner and 5 more met <hi>Chriſtmas</hi> in the Road, and robbed his Wagon, and after they ſhared the Mony; which was clearly proved, and he had nothing to offer, being an old Offender, he was found Guilty of that Robbery alſo.</p>
+            <p>
+               <hi>George Brock</hi> and <hi>Richard James</hi> were both Indicted for ſtealing 8 Ewe Sheep, value 4 l. 16 s. from <hi>Wil<g ref="char:EOLhyphen"/>liam Breteridge</hi> of <hi>Kenſington: James</hi> confeſs'd it, but <hi>Brock</hi> pleaded Not Guilty; and the Evidence being called, they depoſed, That the Priſoners offered ſome of the Sheep to ſale to a Butcher in <hi>Newport-Market,</hi> and took him to ſee the reſt in <hi>Dog and Bitch-yard,</hi> in <hi>Damnation-Ally;</hi> the Priſoner laid it upon <hi>Richard James,</hi> and had no Evidence, ſo he was found Guilty of Felony.</p>
+            <p>
+               <hi>James Hammond</hi> was tryed for the Murther of one <hi>Francis S<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent</hi> of <hi>Stepney,</hi> with a Shovel, value 4 d. giv<g ref="char:EOLhyphen"/>ing him a Mortal Wound upon the Head, on the 9th of <hi>October</hi> laſt. It ſeems that the Priſoner threw his Shovel at a Sow in the Yard, and chanc'd to give the Deceaſed the Wound, which the Surgeons declared was the Cauſe of his Death. The Priſoner did not deny it, as to matter of Fact, and called ſome Evi<g ref="char:EOLhyphen"/>dence, who ſpake well of his Behaviour. He was found Guilty of Manſlaughter only.</p>
+            <p>
+               <hi>John Ra<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le</hi> was indicted for ſtealing a Silver Tankard from <hi>John Newell,</hi> on the 2 d. of <hi>September</hi> laſt: But the Evidence could not ſwear poſitively againſt him, only that he was a Lodger at the Proſe<g ref="char:EOLhyphen"/>cutor's Houſe, and was going away without Leave, <hi>&amp;c.</hi> which gave the Proſecutor occaſion to ſuſpect the Priſoner; and the Priſoner confeſs'd that one <hi>Suffolk</hi> had the Tankard, and was gone aſide with it, and could not be found; yet the Jury were ſo kind as to acquit him.</p>
+            <p>
+               <hi>Suſannah Sta<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ley</hi> was indicted for Picking the Pocket or privily ſtealing from <hi>Thomas Oliver</hi> 2 s. 6 d. in Mony, on the 3d inſtant, <hi>&amp;c. Oliver</hi> ſaid, That ſhe met him on <hi>Tower-Hill</hi> and ask'd him to drink, he re<g ref="char:EOLhyphen"/>fuſing it ſhe pick'd his Pocket, but none of the Mony was found about her. The Priſoner denyed it, and ſaid that ſhe was Innocent, and the Court thought the Old Man might miſtake the Perſon. She was Ac<g ref="char:EOLhyphen"/>quitted.</p>
+            <p>
+               <hi>L</hi>—<hi>R</hi>—of <hi>Stepney</hi> was indicted for robbing <hi>Elizabeth Buckſtone</hi> of 2 Gold Rings value 17 s. a Nutmeg-grater 7 s. and 7 l. in Mony, on the 13th inſtant. The Evidence was Mrs. <hi>Buckſtone</hi> and her Son, who depoſed, That the Priſoner and 2 other Men came to drink at the Proſecutor's Houſe, and after they were gone ſhe miſs'd the Mony and Goods, they going away without paying the Recken<g ref="char:EOLhyphen"/>ing, There was no Perſon in the Houſe beſides the Priſoner and the other two; he was brought in Guilty of Felony.</p>
+            <p>
+               <hi>Anne Armerer</hi> was indicted for ſtealing a piece of Stuff value 10 s. from <hi>James Cummins,</hi> but no Evidence appearing againſt her, ſhe was immediately Acquitted without paying her Fees, ſhe being a poor Wo<g ref="char:EOLhyphen"/>man, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Thomas Rogers</hi> and <hi>Anne Rogers</hi> were tryed for Clipping 40 pieces of Silver. The Evidence ſwore, That there were Shears, and Robbers to rub Mony, and a File and ſome Clipping, <hi>&amp;c.</hi> found in the Pri<g ref="char:EOLhyphen"/>ſoners Houſe in <hi>Eling</hi> Pariſh, near <hi>Acton;</hi> all which were produced in Court, in Teſtimony againſt them, as alſo a Parcel of clipt Mony, which was found in the bottom of a Cheſt. The Priſoner urged, That he found the clipt Mony, and they both denyed it ſtiffly, and that they never uſed the Tools, neither did they hide them from any Body, uſing ſeveral extenuating Arguments to ſtiffle their horrid Crime; which came to no good Effect, for they were both found Guilty of High Treaſon.</p>
+            <p>
+               <hi>Thomas Rogers</hi> was ſingly indicted, a ſecond Time, for a Miſdemeanour, in Harbouring of Thieves in his Houſe, keeping them from Juſtice, as High-way-men, <hi>&amp;c.</hi> The Evidence ſaid, That ſeveral High-way-men uſed to meet at the Priſoner's Houſe, at <hi>Eling,</hi> near <hi>Acton,</hi> where they were put into a dark Room, to prevent Diſcovery, and from thence they were wont to diſtribute themſelves abroad to rob, <hi>&amp;c.</hi> And that the Priſoner did once ſet a Grazier that was going by his Door, and two High way men went out and robbed him immediately. He had little to ſay, but denyed all that was ſworn againſt him; he was look'd upon as a notorious baſe Fellow, for there were ſeveral Wagons robbed within this twelve Months, going that Road, through his Inſtigation. The Priſoner ſtood out to the laſt that he knew no<g ref="char:EOLhyphen"/>thing of it, yet he was found Guilty of the Miſde<g ref="char:EOLhyphen"/>meanour.</p>
+            <p>
+               <hi>Joſeph Jones</hi> was indicted for getting Clipings pri<g ref="char:EOLhyphen"/>vately into his Cuſtody, and concealing of them, to the great Encouragement of that Profeſſion. The Evidence ſaid, That there was a Noiſe of Filling heard in his Chamber, in the Night-time; and there was a Box of Clippings found under a Cheſt of Drawers, by the Woman that uſed to clean his Room. The Pri<g ref="char:EOLhyphen"/>ſoner denyed it, and ſaid that another Young Man lodged with him, and knew nothing how the Clipp<g ref="char:EOLhyphen"/>ings came there, <hi>&amp;c.</hi> yet he was convicted of the Miſdemeanour.</p>
+            <p>
+               <hi>Elizabeth Firmin</hi> was arraigned for ſtealing a Silver Porringer, value 50 s. from <hi>Arthur Bereſter:</hi> But the Felony being committed in <hi>April</hi> laſt, ſhe was Acquitted by vertue of their Majeſties moſt gracious Pardon.</p>
+            <p>
+               <hi>ON</hi> Thurſday <hi>Night the Court adjourned till</hi> Saturday <hi>Morning</hi> 8 <hi>a Clock, at which time being ſet, they pro<g ref="char:EOLhyphen"/>ceeded as followeth.</hi>
+            </p>
+            <p>
+               <hi>Daniel Juxon</hi> was indicted for an Aſſault upon one <hi>Robert Ruſſel.</hi> It was evidenced that he came to rob his Houſe, and <hi>Ruſſel</hi> oppoſing him he ſtrook him with a Hammer: The Priſoner could not invalidate it, ſo he was found Guilty.</p>
+            <p>
+               <hi>Elizabeth Cox</hi> was innicted for a Miſdemeanour, in putting off 29 Pieces of falſe and counterfeit Money: But the Evidence could not ſwear poſitively againſt her, only that ſhe was wont to change Broad Money for clipt. The Priſoner pleaded her Innocency, but upon the whole ſhe was found Guilty of changing bad Mony for good.</p>
+            <pb n="4" facs="tcp:61909:3" rendition="simple:additions"/>
+            <p> 
+               <hi>Edward Stephens</hi> was tryed for the like Fault, in paſſing off 36 pieces of falſe Mony: Which was fully evidenced againſt him, and that he put off three pound for 2 Guineas. The Priſoner denyed it ſtifly, yet that availed him nothing, for he was found Guilty.</p>
+            <p>
+               <hi>Thomas Dant</hi> was indicted for ſtealing a Silver Tankard, value 7 l. 2 Drachm Cups 5 s. 2 Yards of Flanders-Lace, value 10 s. and other Goods, from <hi>Bartholomew Hunt.</hi> The Evidence was Mrs. <hi>Hunt</hi> and others, who ſaid, That the Priſoner and another Perſon came to the ſaid <hi>Hunt</hi>'s Houſe, and being above ſtairs, they pretended to write Letters, and a little time after one of them went away, and the Tankard was gone, and the Priſoner was not pre<g ref="char:EOLhyphen"/>ſently ſtopt, but was taken afterwards, and did con<g ref="char:EOLhyphen"/>feſs that he took away the Goods: But upon the Tryal he denyed it, and ſaid that there were other Company in the Room beſides him, but he had no Evidence to prove it: He was found Guilty.</p>
+            <p>The Tryals being over, the Court proceeded to give Sentence as followeth,</p>
+            <p>
+               <hi>Burnt in the Hand</hi> 9.</p>
+            <p>John Stephens, John Clarke, David Floyd, George Brock, Richard James, James Hammond, L — R—, Thomas Dant <hi>and</hi> James Batrone.</p>
+            <p>
+               <hi>To be Tranſported,</hi> 2</p>
+            <p>Henry Chawke <hi>and</hi> Anne Braſsbey.</p>
+            <p>
+               <hi>To be Whipt</hi> 3.</p>
+            <p>Margaret Kelly, Elizabeth Vaughan <hi>and</hi> Anne Griſcal.</p>
+            <p>
+               <hi>Received Sentence of Death</hi> 12.</p>
+            <p>M— H—, Conſtance Wainwright, John Lowbridge, Jane Eaton, Katharine Jones, Anne Henderſon, Thomas Caſtle <hi>alias</hi> Caſſey, Peter Val<g ref="char:EOLhyphen"/>lard, Bryant Cane, Thomas Rowland, Thomas Ro<g ref="char:EOLhyphen"/>gers, <hi>and</hi> Anne Rogers <hi>his Wife.</hi>
+            </p>
+            <p>
+               <hi>Thomas Caſtle, Peter Vallard</hi> and <hi>Thomas Rogers,</hi> were ordered to be Drawn upon a Sledge to the place of Execution, to be hanged by the Neck, cut down alive, their Bowels burnt, their Bodies quartered, and to be diſpoſed of at their Majeſties pleaſure. And <hi>Anne Rogers</hi> was ordered to be burnt alive.</p>
+            <p>
+               <hi>Luke Braſsbey</hi> fined 10 Groats, and to remain in Priſon till he find good Sureties for his peaceable Beha<g ref="char:EOLhyphen"/>viour. <hi>Daniel Juxon</hi> was fined 4 Nobles, and to find good Sureties. <hi>Joſeph Jones</hi> was ordered to remain till he find Sureties for his quiet behaviour for the future. <hi>Elizabeth Cox</hi> and <hi>Edward Stephens</hi> were both finded 5 Pound a piece.</p>
+            <p>
+               <hi>William Hodges</hi> having given in Bail for his ap<g ref="char:EOLhyphen"/>pearance, to anſwer what ſhould be alledged againſt him, did now move for to be diſcharged; but the Court being pleaſed to tender him the Oaths, he refuſed to comply; whereupon he was ordered to continue upon Bail till further Order.</p>
+            <p>
+               <hi>Turner</hi> a Bookſeller, for publiſhing a Seditious Libel againſt the Government, entituled, <hi>A Bargain dear bought,</hi> gave Bail to appear next Seſſions.</p>
+            <p>Cap. <hi>Rider</hi> was diſcharged from all Recognizances.</p>
+            <p>
+               <hi>Lyon Fountaine, Andrew Burnet</hi> and <hi>Elizabeth Fir<g ref="char:EOLhyphen"/>min,</hi> notwithſtanding their being acquitted, were or<g ref="char:EOLhyphen"/>dered to remain till they find ſufficient Sureties for their better Converſation; <hi>Firmin</hi> being known to the Court to have been a notorious Offender.</p>
+            <p>
+               <hi>Mary Ellis</hi> of <hi>Weſtminſter</hi> was indicted for Felony, and called to anſwer, but did not uppear, ſhe being lately fled from Juſtice.</p>
+            <p>The next enſuing Seſſions was ordered to begin at Juſtice-Hall in the <hi>old Bayly,</hi> on <hi>Weſneſday</hi> the 10th of <hi>December.</hi>
+            </p>
+            <closer>
+               <hi>God Save King</hi> WILLIAM <hi>and Queen</hi> MARY.<lb/>
+               <signed>
+                  <hi>THO. PILKINGTON</hi> Mayor.</signed>
+            </closer>
+         </div>
+         <div type="adverts_for_medicines_quacks_newsbooks_etc.">
+            <head>ADVERTISEMENTS.</head>
+            <p>☞ Theſe are to give Notice to all Perſons, for the Benefit of the Publick, That Mr. <hi>Elmy,</hi> Profeſſor of Phyſick, and Operator, of known Integrity, and above <hi>25</hi> Years practice. Liveth at the <hi>Blue Ball</hi> in <hi>Whale-Bone Court,</hi> at the Lower End of <hi>Bartholomew-lane</hi> by the <hi>Royal Exchange,</hi> who moſt ſafely and expe<g ref="char:EOLhyphen"/>ditiouſly Cures <hi>Deafneſs</hi> and <hi>Noiſe in the Ears</hi> in any of what Age ſoever, (if Curable) and at firſt Sight, by Inſpection, Reſolves the Patient if ſo or not, as moſt Eminent Perſons of. Quality in this City can Teſtifie. He hath likewiſe a moſt excellent Gargariſm or Mouth-Water, which will make black or yellow Teeth as white as Ivory, in a few times uſing; and it will certainly cure the Scurvy, and all other Diſeaſes incident to the Mouth, Teeth and Gums, which in many perſons cauſeth a ſtink<g ref="char:EOLhyphen"/>ing Breath, which (by the Bleſſing of God, and the uſe of this Water) I dare affirm you will be freed from thoſe Maladies before mentioned, with Directions. His Pills only prepared for the <hi>French</hi> Diſeaſe, and the <hi>Running of the Reins,</hi> may be had in Boxes of ſeveral prices, with other <hi>Venereal Arcana's,</hi> as occaſion ſerves.</p>
+            <p>☞ There is now Publiſhed, <hi>The Politicks of</hi> Europe, or, <hi>A Rational Journal concerning the preſent Affairs of the Time;</hi> giving an Account of the preſent State of <hi>Europe,</hi> with regard to its Two moſt Active Powers; <hi>William</hi> the Third, and <hi>Lewis</hi> the Four<g ref="char:EOLhyphen"/>teenth. price <hi>6 d.</hi> The Continuation of which <hi>Journal</hi> will be now publiſhed every <hi>Saturday</hi> in a ſingle <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heet. Sold by <hi>Langley Curtiſs,</hi> at <hi>Sir Edmondbury God-fry's Head,</hi> near <hi>Fleet-bridge.</hi>
+            </p>
+            <p>☞ In <hi>Plow-Yard</hi> in <hi>Grays-Inn Lane,</hi> lives Dr. <hi>Tho<g ref="char:EOLhyphen"/>mas Kirlcus</hi> a Collegiate Phyſician, and Sworn Phyſician to <hi>Charles II.</hi> until his Death: Who, with a Drink and Pill, hindering no Buſineſs, Cures all <g ref="char:V">Ʋ</g>lcers, Scabs, Scurfs in the Face, or elſewhere; Kings-Evil, Leproſie, and Venereal Diſeaſe, expecting nothing if he Cures not Of the laſt, he hath Cured about 500 perſons in this City, many after Fluxing. It quickly and ſafely Cures it in the beginning, which cannot be done with <hi>Mercury,</hi> without danger of Life. The Drink is <hi>3 s.</hi> the Quart, the the Pill <hi>1 s.</hi> the Box, which is two Purges. They excel all Purges, in chanſing all Crudities and Impurities, and ſo prevent and Cure many Diſeaſes, and eſpecially the G<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut and Stone. In all Diſeaſes he gives his Opinion for nothing.</p>
+         </div>
+         <div type="notice_of_royal_pardons">
+            <p>SEveral Perſons, who were lately Convicted for very Wicked and Notorious Crimes, did receive the Benefit of their Majeſties Moſt Gracious Pardon upon their reſpective Knees, in open Court: Whoſe Names are exactly inſerted as followeth.</p>
+            <list>
+               <item>Philip Williams</item>
+               <item>Mary Cary</item>
+               <item>Chriſtoph. Jones</item>
+               <item>Anne Yates</item>
+               <item>Mary Jones</item>
+               <item>William Baniſter</item>
+               <item>Philip Mackquear</item>
+               <item>George Crawford</item>
+               <item>Andrew Browne</item>
+               <item>William Rolph</item>
+               <item>William Briſtow</item>
+               <item>John Wilſon</item>
+               <item>William Wright</item>
+               <item>James Gardyner</item>
+               <item>William Tippet</item>
+               <item>William Gold</item>
+               <item>Iſaac Vallence</item>
+               <item>Thomas Fiſher</item>
+               <item>Richard Bourne</item>
+               <item>Thomas Dod</item>
+               <item>Thomas Read</item>
+               <item>John Carter</item>
+               <item>Sarah Taylor</item>
+               <item>Mary Quarles</item>
+               <item>William Wilſon</item>
+               <item>Joauna Browne</item>
+               <item>Anne Hereford</item>
+               <item>James Arden</item>
+               <item>Suſannah T<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrel</item>
+               <item>Robert Allen.</item>
+            </list>
+            <p>After which the Court was pleaſed to give them a good Exhortation, To beware how they abuſed the King's Mercy, by returning to their former Courſe of Life, for if ſo, they muſt expect no Pardon, but be brought to a ſevere and condign Puniſhment.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Langley Curtiſs <hi>near</hi> Fleet-bridge. <hi>1690.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
